@@ -7,6 +7,7 @@ RA: d3394422fb7587039be4
 analisei o código python já desenvolvido de uma empresa e realizei algumas correções.
 
 ##questões respondidas
+
 Questão 1. O semáforo serve para limitar a quantidade de pedidos processados ao mesmo tempo, evitando excesso de acessos simultâneos.
 
 Questão 2. Para manter a réplica atualizada com os dados do servidor principal e evitar informações desatualizadas.
